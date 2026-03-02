@@ -14,19 +14,19 @@ AI enhances this process by analyzing large datasets of medical images and ident
 - Recognize early stroke indicators  
 - Automatically measure organs and structures  
 
-AI functions as a decision-support tool that improves diagnostic speed and consistency rather than replacing physicians.
+AI functions as a clinical decision-support tool that improves diagnostic speed, consistency, and early detection accuracy rather than replacing physicians.
 
-**Source:** National Institutes of Health – https://www.nih.gov  
+**Source:** [National Institutes of Health](https://www.nih.gov)
 
 ---
 
 ### (b) What previous solutions were used before AI?
 
-Before AI integration, radiologists manually interpreted medical images. Although effective, human interpretation can vary due to workload, fatigue, and experience differences.
+Before AI integration, radiologists manually interpreted medical images. Although effective, human interpretation can vary due to workload, fatigue, and differences in clinical experience.
 
-Earlier computer-aided detection systems were rule-based and limited in handling complex cases. Modern AI, especially deep learning models, improves upon these systems by learning from large image datasets and detecting subtle patterns that rule-based programs could miss.
+Earlier computer-aided detection (CAD) systems were rule-based and limited in handling complex or subtle abnormalities. Modern AI, especially deep learning models, improves upon these systems by learning from large image datasets and detecting patterns that rule-based programs could miss.
 
-AI reduces variability and enhances diagnostic reliability.
+AI reduces diagnostic variability and supports more consistent clinical outcomes.
 
 ---
 
@@ -47,11 +47,11 @@ These systems learn associations between image features and diagnostic outcomes 
 AI-assisted imaging can:
 
 - Enable earlier disease detection  
-- Reduce diagnostic delays  
+- Reduce diagnostic delays in emergency situations  
 - Improve healthcare access in underserved areas  
-- Increase hospital efficiency  
+- Increase hospital efficiency and workflow management  
 
-For patients, this means faster and potentially more accurate diagnoses.
+For patients, this can mean faster diagnoses, earlier treatment, and potentially improved health outcomes.
 
 ---
 
@@ -64,16 +64,18 @@ Yes, including:
 - Legal accountability questions  
 - Overreliance on automated systems  
 
-Responsible regulation and continued human oversight are necessary to ensure safe implementation.
+Responsible regulation, model transparency, and continued human oversight are necessary to ensure safe and ethical implementation.
 
 ---
 
 ## Personal and Professional Connection
 
-As a Data Engineer and CSCC  student interested in data-driven technologies, this topic demonstrates how machine learning and computer vision can directly improve real-world healthcare outcomes. It highlights both the technical potential of AI and the ethical responsibility involved in deploying it.
+As a Data Engineer and CSCC  student with interests in data analysis and emerging technologies, this topic connects directly to my academic background in machine learning concepts and data-driven problem solving. AI in medical imaging demonstrates how theoretical models such as neural networks and supervised learning can be applied to high-impact, real-world healthcare challenges.
+
+It also reinforces the importance of ethical AI development, responsible data usage, and interdisciplinary collaboration between technologists and medical professionals.
 
 ---
 
 ## Conclusion
 
-AI in medical imaging enhances diagnostic accuracy, efficiency, and accessibility. While challenges remain, responsible integration of AI into healthcare represents a significant advancement in emerging technology.
+AI in medical imaging enhances diagnostic accuracy, efficiency, and accessibility. While challenges remain, responsible integration of AI into healthcare represents a significant advancement in emerging technology with meaningful real-world impact.
