@@ -1,82 +1,79 @@
-## [Learning Portfoilio Tutorial Videos](https://video.cscc.edu/channel/channelid/295074652) 
+# AI and Emerging Technologies  
+## Learning Portfolio Card  
 
-## Markdown Text Cheat Sheet
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+## Emerging Technology Selected: AI in Medical Imaging  
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+### (a) What emerging technology did you choose? How is AI being used?
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+The emerging technology I selected is **Artificial Intelligence (AI) in medical imaging**, particularly in radiology. Imaging technologies such as X-rays, CT scans, and MRI scans allow physicians to detect disease inside the body.
 
-## Lists
+AI enhances this process by analyzing large datasets of medical images and identifying patterns associated with abnormalities. AI systems can:
 
-Unordered:
+- Detect tumors in mammograms  
+- Identify lung disease in chest X-rays  
+- Recognize early stroke indicators  
+- Automatically measure organs and structures  
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+AI functions as a decision-support tool that improves diagnostic speed and consistency rather than replacing physicians.
 
-Ordered:
-
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
-
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
+**Source:** National Institutes of Health – https://www.nih.gov  
 
 ---
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
+### (b) What previous solutions were used before AI?
 
-## Code
+Before AI integration, radiologists manually interpreted medical images. Although effective, human interpretation can vary due to workload, fatigue, and experience differences.
 
-Now some code:
+Earlier computer-aided detection systems were rule-based and limited in handling complex cases. Modern AI, especially deep learning models, improves upon these systems by learning from large image datasets and detecting subtle patterns that rule-based programs could miss.
 
-```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
-
-This is an image[^4]
+AI reduces variability and enhances diagnostic reliability.
 
 ---
-{: data-content="footnotes"}
 
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
-[^2]: hey there, don't forget to read all the footnotes!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
+### (c) What type of AI is used?
+
+AI in medical imaging primarily uses:
+
+- **Machine Learning (ML)** – models trained on labeled datasets  
+- **Deep Learning** – especially Convolutional Neural Networks (CNNs)  
+- **Computer Vision** – image analysis and pattern recognition  
+
+These systems learn associations between image features and diagnostic outcomes using expert-labeled training data.
+
+---
+
+### (d) How does this affect everyday life?
+
+AI-assisted imaging can:
+
+- Enable earlier disease detection  
+- Reduce diagnostic delays  
+- Improve healthcare access in underserved areas  
+- Increase hospital efficiency  
+
+For patients, this means faster and potentially more accurate diagnoses.
+
+---
+
+### (e) Are there concerns?
+
+Yes, including:
+
+- Bias in training data  
+- Data privacy risks  
+- Legal accountability questions  
+- Overreliance on automated systems  
+
+Responsible regulation and continued human oversight are necessary to ensure safe implementation.
+
+---
+
+## Personal and Professional Connection
+
+As a Data Engineer and CSCC  student interested in data-driven technologies, this topic demonstrates how machine learning and computer vision can directly improve real-world healthcare outcomes. It highlights both the technical potential of AI and the ethical responsibility involved in deploying it.
+
+---
+
+## Conclusion
+
+AI in medical imaging enhances diagnostic accuracy, efficiency, and accessibility. While challenges remain, responsible integration of AI into healthcare represents a significant advancement in emerging technology.
