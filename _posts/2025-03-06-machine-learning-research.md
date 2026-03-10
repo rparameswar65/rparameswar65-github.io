@@ -53,7 +53,4 @@ From a data engineering perspective, this reinforces why feature selection durin
 This topic connects directly to my daily work as a data engineer at Nationwide and my CSCC coursework. The ML pipeline mirrors the data lifecycle I manage — from ingestion and cleansing through monitoring and evaluation. The ethical dimensions also connect to our AI ethics module on fairness and transparency. As I build skills in Python, statistical modeling, and data visualization, I am working toward contributing to responsible AI development within the insurance industry.
 ```
 
-**Step 5 — Commit the file**
-Scroll down to the **"Commit new file"** section. Add a commit message like:
-```
-Add Machine Learning Research portfolio entry
+
