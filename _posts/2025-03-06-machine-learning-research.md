@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning Research"
-date: 2025-03-06
+date: 2026-03-06
 ---
 
 ## 1. Two Steps of Machine Learning — Explained Simply
